@@ -1,0 +1,48 @@
+#login-area h1{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.form{
+    box-shadow: 5px 5px 5px 5px lightgray;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#transaction-area{
+    display: none;
+    padding-top: 100px;
+}
+
+.deposit{
+    background-color: slateblue;
+}
+
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+    
+}
+.status{
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+.inner-form{
+    padding-top: 50px;
+}
+
+.deposit-form{
+    padding: 20px;
+}
+
+.withdraw-form {
+    padding: 20px;
+}
+
+.inner-form .status{
+    box-shadow: 5px 5px 5px 5px lightgray;
+    padding: 20px;
+}
